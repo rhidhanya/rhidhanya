@@ -1,6 +1,3 @@
-(https://github.com/user-attachments/files/28417575/README.1.md)
-
-<a href="https://github.com/rhidhanya2116">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rhidhanya%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech+Computer+Technology+%7C+Cloud+%26+Backend+Enthusiast+%7C+UI%2FUX+Explorer&descAlignY=62&descSize=16" width="100%"/>
 </a>
 
@@ -9,7 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Rhidhanya+%F0%9F%91%8B;B.Tech+Computer+Technology+%7C+BIT;Cloud+%7C+Backend+%7C+UI%2FUX+Developer;Building+Solutions+That+Matter+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com)
 
 </div>
-
 ---
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
