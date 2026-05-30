@@ -1,8 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RHIDHANYA%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Developer%20%7C%20SQL%20Cloud%20%7C%20UI%2FUX%20Designer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RHIDHANYA%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Developer%20%7C%20SQL%20%7C%20UI%2FUX%20Designer&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 </div>
----
 
 ## 🧑‍💻 About Me
 
@@ -13,12 +12,10 @@ public class Rhidhanya {
 
     String name     = "Rhidhanya K";
     String degree   = "B.Tech Computer Technology @ BIT (2027)";
-    String location = "Tamil Nadu, India 🇮🇳";
 
     String[] stack  = {
-        "Java", "SQL", "React.js",
-        "Node.js", "Spring Boot",
-        "MongoDB", "MySQL", "Figma"
+        "Java", "SQL", "Spring Boot",
+         "MySQL", "Figma"
     };
 
     String[] cloud  = { "AWS EC2", "AWS S3", "AWS IAM", "AWS VPC" };
@@ -29,7 +26,7 @@ public class Rhidhanya {
         "UI/UX Design Systems"
     };
 
-    String funFact  = "I design in Figma before writing a single line of code 🎨";
+    String funFact  = "I design in Figma before writing a single line of code !!";
 
     String motto()  { return "Build systems that solve real problems. Ship it. 🚀"; }
 }
@@ -46,8 +43,6 @@ public class Rhidhanya {
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 📦 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 ### ☁️ Cloud & DevOps
@@ -57,7 +52,6 @@ public class Rhidhanya {
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 ### 🧰 Dev Tools
@@ -126,7 +120,7 @@ public class Rhidhanya {
 ☁️  Cloud Deployment     → AWS EC2, S3, IAM, VPC, Cloud Architecture
 ⚙️  Backend Dev          → Spring Boot, REST APIs, Microservices
 🎨  UI/UX Design         → Figma Design Systems, Prototyping, User Research
-🗄️  Databases            → MySQL Optimization, MongoDB Aggregation
+🗄️  Databases            → MySQL Optimization
 ```
 
 ---
