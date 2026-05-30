@@ -1,6 +1,7 @@
-[README (2).md](https://github.com/user-attachments/files/28417671/README.2.md)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RHIDHANYA%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%20Computer%20Technology%20%7C%20Cloud%20Enthusiast%20%7C%20Backend%20%26%20UI%2FUX%20Developer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VIMALATHITHAN%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=62&descSize=16" width="100%"/>
 
+<div align="center">
+</div>
 ---
 
 ## 🧑‍💻 About Me
