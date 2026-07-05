@@ -14,7 +14,7 @@ public class Rhidhanya {
     String degree   = "B.Tech Computer Technology @ BIT (2027)";
 
     String[] stack  = {
-        "Java", "SQL", "Spring Boot",
+        "Java", "Spring Boot",
          "MySQL", "Figma"
     };
 
